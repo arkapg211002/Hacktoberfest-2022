@@ -6,12 +6,12 @@
 ## Solution
 >import java.util.* ;
 >
->public class issue17
+>class solution
 >
 >{
 >
 >    public class Node
->    
+>
 >    {
 >    
 >        int data;
@@ -70,7 +70,7 @@
 >    
 >    {
 >    
->        issue17 obj=new issue17();
+>        solution obj=new solution();
 >        Scanner sc=new Scanner(System.in);
 >        System.out.println("Enter the number of elements");
 >        int n=sc.nextInt();
