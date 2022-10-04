@@ -20,7 +20,8 @@
 >        {
 >            data=d;
 >            next=null;
->        }        
+>        }   
+>             
 >    } 
 >    
 >    public Node head=null; 
