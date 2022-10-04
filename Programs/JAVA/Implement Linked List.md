@@ -11,7 +11,7 @@
 >{
 >
 >    public class Node
->
+>    
 >    {
 >    
 >        int data;
@@ -20,16 +20,15 @@
 >        {
 >            data=d;
 >            next=null;
->        }
->        
->    }
+>        }        
+>    } 
 >    
->    public Node head=null;
+>    public Node head=null; 
 >    
 >    public Node tail=null;
 >    
 >    public void add(int d)
->    
+> 
 >    {
 >    
 >        Node newnode=new Node(d);
